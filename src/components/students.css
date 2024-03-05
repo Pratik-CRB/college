@@ -1,0 +1,20 @@
+.student-data{
+    display: flex;
+    flex-flow: column;
+    padding: 10px;
+    width: 60vh;
+    height: 40vh;
+    justify-content: space-evenly;
+}
+input{
+    padding: 5px;
+    background-color: #EFEFEF;
+    border: none;
+}
+input.focus{
+    outline:none;
+}
+button{
+    background-color: rgb(32, 98, 252);
+    color: beige;
+}
